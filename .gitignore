@@ -25,6 +25,14 @@ tomcat
 # Maven 
 target/
 
+# Gradle
+gradle/
+gradlew
+gradlew.bat
+
+# Ignore Logs
+*.log
+
 # IntelliJ project files 
 *.iml
 *.iws
